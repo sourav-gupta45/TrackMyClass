@@ -1,5 +1,7 @@
 # TrackMyClass 🎓
 
+ https://sourav-gupta45.github.io/TrackMyClass/
+
 > Smart College Attendance Tracker with What-If Bunk Simulator, Subject-Wise Tracking, Daily Lecture Notes & Homework Manager.
 
 ![Dashboard Preview](public/header_reference.png)
